@@ -47,12 +47,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      title: '生活',
+      pageId: '72adfb08009d468689758f7a451f2a2c'
     },
     {
-      title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      title: '街舞',
+      pageId: 'd771a57f1031415fb3b5db5997089f94'
     }
   ]
 })
