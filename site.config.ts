@@ -16,7 +16,6 @@ export default siteConfig({
   // open graph metadata (optional)
   description: '宇宙很大,生活更大',
   // social usernames (optional)
-  github: 'lockingreal',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
