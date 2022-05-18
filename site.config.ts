@@ -15,8 +15,6 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description: '宇宙很大,生活更大',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
   // social usernames (optional)
   github: 'lockingreal',
 
