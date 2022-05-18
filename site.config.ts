@@ -39,7 +39,10 @@ export default siteConfig({
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: null,
+  pageUrlOverrides: {
+    '/生活':'72adfb08009d468689758f7a451f2a2c',
+    '/街舞':'d771a57f1031415fb3b5db5997089f94'
+  },
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
